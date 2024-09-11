@@ -1,6 +1,5 @@
 
-# Lab4 FlashCard
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+# Flashcard App
 
 ## Lab 4
 
